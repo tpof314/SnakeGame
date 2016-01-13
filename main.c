@@ -3,6 +3,8 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    //printf("Hello world!\n");
+	//Êä³öÓï¾ä
+	printf("github and team work!");
     return 0;
 }
